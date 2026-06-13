@@ -1,0 +1,12 @@
+# Core data science
+numpy==2.4.2
+pandas==3.0.0
+scikit-learn==1.8.0
+joblib==1.5.3
+
+# Visualisation (used in notebooks)
+matplotlib==3.10.9
+seaborn==0.13.2
+
+# Web app
+gradio==6.18.0
