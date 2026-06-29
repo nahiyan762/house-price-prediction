@@ -46,7 +46,7 @@ The project is deployed with Gradio using `app.py`.
 
 ## Installation
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nahiyan762/house-price-prediction
 cd house-price-prediction
 pip install -r requirements.txt
 ```
